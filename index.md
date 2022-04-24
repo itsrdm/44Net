@@ -1,5 +1,3 @@
-# Welcome to Missouri's 44-Network Information Center
-
 As the IP address coordinator for Missouri, I am reponsible for assigning IP addresses in the `44.46.0.0 /16` IP space.  This space will serve as a simple reference point for Missouri Amateur Radio Operators interested in leveraging the 44Net IP space for their radio projects.
 
 ### Currently Allocated Space
