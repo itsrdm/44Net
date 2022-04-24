@@ -5,7 +5,7 @@ This website was created to help simplify the onboarding process between a poten
 ## Overview of onboarding
 * Missouri Amateur Radio Operator Subitting Allocation Request
 * Allocation Request is reviewed by me, the Coordinator
-  * Block Size Reviewed
+  * Block Size Reviewed against my [IP Addressing Methodology](guideline.MD)
 * Approved or Denied
 
 ### Currently Allocated Space
