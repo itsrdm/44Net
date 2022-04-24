@@ -1,37 +1,36 @@
-## Welcome to Missouri's 44-Network Information Center
+# Welcome to Missouri's 44-Network Information Center
 
-You can use the [editor on GitHub](https://github.com/rdmstl/44Net/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As the IP address coordinator for Missouri, I am reponsible for assigning IP addresses in the `44.46.0.0 /16` IP space.  This space will serve as a simple reference point for Missouri Amateur Radio Operators interested in leveraging the 44Net IP space for their radio projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Currently Allocated Space
 
-### Markdown
+| Network          | Description / Overview of Use         | Allocated To | Last Updated |
+|------------------|---------------------------------------|--------------|--------------|
+| 44.46.0.11 /32   | AC0G                                  | AC0G         | 27 Nov 2013  |
+| 44.46.0.12 /32   | WE0DX                                 | WE0DX        |              |
+| 44.46.0.16 /30   | SEMO Packet Net                       | AB9S         |              |
+| 44.46.1.0 /29    | KB0WLF in the woods                   | KB0WLF       |              |
+| 44.46.1.24 /29   | KD0BQS                                | KD0BQS       |              |
+| 44.46.1.40 /29   | K0SNP experimental                    | K0SNP        |              |
+| 44.46.1.48 /29   | KE0WDI                                | KE0WDI       |              |
+| 44.46.1.56 /29   | KC4UPR experiments                    | KC4UPR       |              |
+| 44.46.2.16 /28   | W0KAH                                 | W0KAH        |              |
+| 44.46.2.32 /28   | K0JAA experimental                    | K0JAA        |              |
+| 44.46.2.48 /28   | Experimental                          | AB0DK        |              |
+| 44.46.2.64 /28   | KD0WCV Exp                            | KD0WCV       |              |
+| 44.46.2.80 /28   | KC0EZE                                | KC0EZE       |              |
+| 44.46.2.96 /28   | Platte County Amateur Radio Group  	 | NR0AD        |              |
+| 44.46.2.112 /28  | Mesh and Packet testing	             | K0DEZ        |              |
+| 44.46.15.0 /24   | NR0Q	                                 | NR0Q         |              |
+| 44.46.16.0 /24   | Kansas City Metro BYRG AMPR Network   | W0NQX        |              |
+| 44.46.17.0 /24   | N0RJC - Various Services	             | N0RJC        |              |
+| 44.46.18.0 /24   | KY0LE Experimental                    | KY0LE        |              |
+| 44.46.19.0 /24   | Mesh Network Testing                  | W0RDM        |              |
+| 44.46.20.0 /24   | AA0RC Networking                      | AA0RC        |              |
+| 44.46.21.0 /24   | KC0UDT Home Net                       | KC0UDT       |              |
+| 44.46.23.0 /24   | n0uuu                                 | N0UUU        |              |
+| 44.46.32.0 /24   | DIGITAL NETWORK                       | NM5PB        |              |
+| 44.46.96.0 /24   | KD0EAG amateur-experimental           | KD0EAG       |              |
+| 44.46.128.0 /24  | Blue Springs, Missouri                | N0VEP        |              |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rdmstl/44Net/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This table was last manually updated on, `April 24, 2022`.  You can view the most up to date information via the [Missouri AMPRNet Portal](https://portal.ampr.org/networks.php?a=region&id=879).
