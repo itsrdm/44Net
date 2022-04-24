@@ -1,4 +1,5 @@
 # IP Addressing Methodology 
+### [Return Home](index.md)
 
 This web page is my attempt to help everyone understand my thought processes behind how I evaluate requests to determine the IP Addressing space I will allocate. (Feel free to read the FAQ at the bottom to help explain some terms used)
 
