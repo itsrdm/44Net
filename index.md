@@ -1,5 +1,13 @@
 As the IP address coordinator for Missouri, I am reponsible for assigning IP addresses in the `44.46.0.0 /16` IP space.  This space will serve as a simple reference point for Missouri Amateur Radio Operators interested in leveraging the 44Net IP space for their radio projects.
 
+This website was created to help simplify the onboarding process between a potential Missouri radio operator and me, the AMPRnet Coordinator.  This website will never replace the [AMPRNet Wiki](https://wiki.ampr.org/), only supplement.
+
+## Overview of onboarding
+* Missouri Amateur Radio Operator Subitting Allocation Request
+* Allocation Request is reviewed by me, the Coordinator
+  * Block Size Reviewed
+* Approved or Denied
+
 ### Currently Allocated Space
 
 | Network          | Description / Overview of Use         | Allocated To | Last Updated |
@@ -32,3 +40,7 @@ As the IP address coordinator for Missouri, I am reponsible for assigning IP add
 | 44.46.128.0 /24  | Blue Springs, Missouri                | N0VEP        |              |
 
 This table was last manually updated on, `April 24, 2022`.  You can view the most up to date information via the [Missouri AMPRNet Portal](https://portal.ampr.org/networks.php?a=region&id=879).
+
+### Reference Links
+- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](https://pages.github.com/)
