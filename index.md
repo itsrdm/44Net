@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Missouri's 44-Network Information Center
 
 You can use the [editor on GitHub](https://github.com/rdmstl/44Net/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
