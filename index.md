@@ -1,4 +1,4 @@
-As the IP address coordinator for Missouri, I am reponsible for assigning IP addresses in the `44.46.0.0 /16` IP space.  This space will serve as a simple reference point for Missouri Amateur Radio Operators interested in leveraging the 44Net IP space for their radio projects.
+Welcome!  I'm Ronnie, I have been the Missouri 44Net Coordinator since July of 2020.  As the IP address coordinator for Missouri, I am reponsible for assigning IP addresses in the `44.46.0.0 /16` IP space and offering technical tips as needed.  This space will serve as a simple reference point for Missouri Amateur Radio Operators interested in leveraging the 44Net IP space for their radio projects.
 
 This website was created to help simplify the onboarding process between a potential Missouri radio operator and me, the AMPRnet Coordinator.  This website will never replace the [AMPRNet Wiki](https://wiki.ampr.org/), only supplement.
 
@@ -20,6 +20,11 @@ This website was created to help simplify the onboarding process between a poten
   * I will email you confirmation of the record being added.
   * IPIP mesh gateways update in 24-hour batch cycles. Thus, your newly minted DNS entry will not grant real-time acceptance. So, roughly 24-48 hours after the newly minted DNS entries are accepted, your IPIP tunnel should be routable over the mesh.
 
+## Helpful Links
+- [AMPRNet Wiki](https://wiki.ampr.org/)
+- [Requesting a Block](https://wiki.ampr.org/wiki/Requesting_a_block)
+- [AMPRNet Portal](https://portal.ampr.org/)
+
 ### Currently Allocated Space
 
 | Network          | Description / Overview of Use         | Allocated To | Last Updated |
@@ -37,8 +42,8 @@ This website was created to help simplify the onboarding process between a poten
 | 44.46.2.48 /28   | Experimental                          | AB0DK        |              |
 | 44.46.2.64 /28   | KD0WCV Exp                            | KD0WCV       |              |
 | 44.46.2.80 /28   | KC0EZE                                | KC0EZE       |              |
-| 44.46.2.96 /28   | Platte County Amateur Radio Group  	 | NR0AD        |              |
-| 44.46.2.112 /28  | Mesh and Packet testing	             | K0DEZ        |              |
+| 44.46.2.96 /28   | Platte County Amateur Radio Group  	 | NR0AD         |              |
+| 44.46.2.112 /28  | Mesh and Packet testing	             | K0DEZ         |              |
 | 44.46.15.0 /24   | NR0Q	                                 | NR0Q         |              |
 | 44.46.16.0 /24   | Kansas City Metro BYRG AMPR Network   | W0NQX        |              |
 | 44.46.17.0 /24   | N0RJC - Various Services	             | N0RJC        |              |
@@ -52,7 +57,3 @@ This website was created to help simplify the onboarding process between a poten
 | 44.46.128.0 /24  | Blue Springs, Missouri                | N0VEP        |              |
 
 This table was last manually updated on, `April 24, 2022`.  You can view the most up to date information via the [Missouri AMPRNet Portal](https://portal.ampr.org/networks.php?a=region&id=879).
-
-### Reference Links
-- [GitHub Pages](https://pages.github.com/)
-- [GitHub Pages](https://pages.github.com/)
