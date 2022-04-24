@@ -1,11 +1,11 @@
 # IP Addressing Methodology 
 ### [Return Home](index.md)
 
-This web page is my attempt to help everyone understand my thought processes behind how I evaluate requests to determine the IP Addressing space I will allocate. (Feel free to read the FAQ at the bottom to help explain some terms used)
+This web page is my attempt to help everyone understand my thought processes behind how I evaluate requests to determine the IP Addressing space I will allocate. (Feel free to read the [FAQ](#faq) at the bottom to help explain some terms used)
 
 
 1. To preserve the Missouri `44.46.0.0 /20` address space, I generally will only allocate space to operators will are intending on routing beyond their local (home) network.
-2. Allocations will be assigned in CIDR blocks within the range of `/32`-`/24`. Where feasible, a buffer of unused ad- dresses will be maintained above assigned blocks to allow for future growth. (See FAQ below for CIDR info).  Current assignments are being made as follows:
+2. Allocations will be assigned in CIDR blocks within the range of `/32`-`/24`. Where feasible, a buffer of unused ad- dresses will be maintained above assigned blocks to allow for future growth. (See [FAQ](#faq) below for CIDR info).  Current assignments are being made as follows:
   * `/32` & `/30` - `44.46.0.x`
   * `/29` - `44.46.1.x`
   * `/28` - `44.46.2.x`
