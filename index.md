@@ -1,4 +1,4 @@
-Welcome!  I'm Ronnie, I have been the Missouri 44Net Coordinator since July of 2020.  As the IP address coordinator for Missouri, I am reponsible for assigning IP addresses in the `44.46.0.0 /16` IP space and offering technical tips as needed.  This space will serve as a simple reference point for Missouri Amateur Radio Operators interested in leveraging the 44Net IP space for their radio projects.
+Welcome!  I'm Ronnie (WØrdm - rdm@rdm.io - https://rdm.io), I have been the Missouri 44Net Coordinator since July of 2020.  As the IP address coordinator for Missouri, I am reponsible for assigning IP addresses in the `44.46.0.0 /16` IP space and offering technical tips as needed.  This space will serve as a simple reference point for Missouri Amateur Radio Operators interested in leveraging the 44Net IP space for their radio projects.
 
 This website was created to help simplify the onboarding process between a potential Missouri radio operator and me, the AMPRnet Coordinator.  This website will never replace the [AMPRNet Wiki](https://wiki.ampr.org/), only supplement.
 
@@ -25,7 +25,7 @@ This website was created to help simplify the onboarding process between a poten
 - [Requesting a Block](https://wiki.ampr.org/wiki/Requesting_a_block)
 - [AMPRNet Portal](https://portal.ampr.org/)
 
-### Currently Allocated Space
+## Currently Allocated Space
 
 | Network          | Description / Overview of Use         | Allocated To | Last Updated |
 |------------------|---------------------------------------|--------------|--------------|
