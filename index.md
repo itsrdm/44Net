@@ -42,8 +42,9 @@ This website was created to help simplify the onboarding process between a poten
 | 44.46.2.48 /28   | Experimental                          | AB0DK        |              |
 | 44.46.2.64 /28   | KD0WCV Exp                            | KD0WCV       |              |
 | 44.46.2.80 /28   | KC0EZE                                | KC0EZE       |              |
-| 44.46.2.96 /28   | Platte County Amateur Radio Group  	 | NR0AD         |              |
-| 44.46.2.112 /28  | Mesh and Packet testing	             | K0DEZ         |              |
+| 44.46.2.96 /28   | Platte County Amateur Radio Group   	 | NR0AD        |              |
+| 44.46.2.112 /28  | Mesh and Packet testing	              | K0DEZ        |              |
+| 44.46.2.128 /28  | WZ9W Node              	              | WZ9W         | 3 Sept 2022  |
 | 44.46.15.0 /24   | NR0Q	                                 | NR0Q         |              |
 | 44.46.16.0 /24   | Kansas City Metro BYRG AMPR Network   | W0NQX        |              |
 | 44.46.17.0 /24   | N0RJC - Various Services	             | N0RJC        |              |
@@ -56,4 +57,4 @@ This website was created to help simplify the onboarding process between a poten
 | 44.46.96.0 /24   | KD0EAG amateur-experimental           | KD0EAG       |              |
 | 44.46.128.0 /24  | Blue Springs, Missouri                | N0VEP        |              |
 
-This table was last manually updated on, `April 24, 2022`.  You can view the most up to date information via the [Missouri AMPRNet Portal](https://portal.ampr.org/networks.php?a=region&id=879).
+This table was last manually updated on, `September 3rd, 2022`.  You can view the most up to date information via the [Missouri AMPRNet Portal](https://portal.ampr.org/networks.php?a=region&id=879).
