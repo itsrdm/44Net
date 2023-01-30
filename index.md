@@ -34,6 +34,7 @@ This website was created to help simplify the onboarding process between a poten
 | 44.46.0.16 /30   | SEMO Packet Net                       | AB9S         |              |
 | 44.46.1.0 /29    | KB0WLF in the woods                   | KB0WLF       |              |
 | 44.46.1.24 /29   | KD0BQS                                | KD0BQS       |              |
+| 44.46.1.32 /29   | KE6GAE                                | KE6GAE       | 30 Jan 2023  |
 | 44.46.1.40 /29   | K0SNP experimental                    | K0SNP        |              |
 | 44.46.1.48 /29   | KE0WDI                                | KE0WDI       |              |
 | 44.46.1.56 /29   | KC4UPR experiments                    | KC4UPR       |              |
