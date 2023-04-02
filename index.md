@@ -3,7 +3,7 @@ Welcome!  I'm Ronnie (WØrdm - [rdm@rdm.io](mailto:rdm@rdm.io) - [https://rdm.io
 This website was created to help simplify the onboarding process between a potential Missouri radio operator and me, the AMPRnet Coordinator.  This website will never replace the [AMPRNet Wiki](https://wiki.ampr.org/), only supplement.
 
 ## Overview of onboarding
-* Missouri Amateur Radio Operator Subitting Allocation Request
+* Missouri Amateur Radio Operator Submitting Allocation Request
 * Allocation Request is reviewed by me, the Coordinator
   * Block Size Reviewed against my [IP Addressing Methodology](guideline.MD)
 * Approved or Denied
