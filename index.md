@@ -27,35 +27,35 @@ This website was created to help simplify the onboarding process between a poten
 
 ## Currently Allocated Space
 
-| Network          | Description / Overview of Use         | Allocated To | Last Updated |
-|------------------|---------------------------------------|--------------|--------------|
-| 44.46.0.11 /32   | AC0G                                  | AC0G         | 27 Nov 2013  |
-| 44.46.0.12 /32   | WE0DX                                 | WE0DX        |              |
-| 44.46.0.16 /30   | SEMO Packet Net                       | AB9S         |              |
-| 44.46.1.0 /29    | KB0WLF in the woods                   | KB0WLF       |              |
-| 44.46.1.24 /29   | KD0BQS                                | KD0BQS       |              |
-| 44.46.1.32 /29   | KE6GAE                                | KE6GAE       | 30 Jan 2023  |
-| 44.46.1.40 /29   | K0SNP experimental                    | K0SNP        |              |
-| 44.46.1.48 /29   | KE0WDI                                | KE0WDI       |              |
-| 44.46.1.56 /29   | KC4UPR experiments                    | KC4UPR       |              |
-| 44.46.2.16 /28   | W0KAH                                 | W0KAH        |              |
-| 44.46.2.32 /28   | K0JAA experimental                    | K0JAA        |              |
-| 44.46.2.48 /28   | Experimental                          | AB0DK        |              |
-| 44.46.2.64 /28   | KD0WCV Exp                            | KD0WCV       |              |
-| 44.46.2.80 /28   | KC0EZE                                | KC0EZE       |              |
-| 44.46.2.96 /28   | Platte County Amateur Radio Group   	 | NR0AD        |              |
-| 44.46.2.112 /28  | Mesh and Packet testing	              | K0DEZ        |              |
-| 44.46.2.128 /28  | WZ9W Node              	              | WZ9W         | 3 Sept 2022  |
-| 44.46.15.0 /24   | NR0Q	                                 | NR0Q         |              |
-| 44.46.16.0 /24   | Kansas City Metro BYRG AMPR Network   | W0NQX        |              |
-| 44.46.17.0 /24   | N0RJC - Various Services	             | N0RJC        |              |
-| 44.46.18.0 /24   | KY0LE Experimental                    | KY0LE        |              |
-| 44.46.19.0 /24   | Mesh Network Testing                  | W0RDM        |              |
-| 44.46.20.0 /24   | AA0RC Networking                      | AA0RC        |              |
-| 44.46.21.0 /24   | KC0UDT Home Net                       | KC0UDT       |              |
-| 44.46.23.0 /24   | n0uuu                                 | N0UUU        |              |
-| 44.46.32.0 /24   | DIGITAL NETWORK                       | NM5PB        |              |
-| 44.46.96.0 /24   | KD0EAG amateur-experimental           | KD0EAG       |              |
-| 44.46.128.0 /24  | Blue Springs, Missouri                | N0VEP        |              |
+| Network          | Description / Overview of Use         | Allocated To |
+|------------------|---------------------------------------|--------------|
+| 44.46.0.11 /32   | AC0G                                  | AC0G         |
+| 44.46.0.12 /32   | WE0DX                                 | WE0DX        |
+| 44.46.0.16 /30   | SEMO Packet Net                       | AB9S         |
+| 44.46.1.0 /29    | KB0WLF in the woods                   | KB0WLF       |
+| 44.46.1.24 /29   | KD0BQS                                | KD0BQS       |
+| 44.46.1.32 /29   | KE6GAE                                | KE6GAE       |
+| 44.46.1.40 /29   | K0SNP experimental                    | K0SNP        |
+| 44.46.1.48 /29   | KE0WDI                                | KE0WDI       |
+| 44.46.1.56 /29   | KC4UPR experiments                    | KC4UPR       |
+| 44.46.2.16 /28   | W0KAH                                 | W0KAH        |
+| 44.46.2.32 /28   | K0JAA experimental                    | K0JAA        |
+| 44.46.2.48 /28   | Experimental                          | AB0DK        |
+| 44.46.2.64 /28   | KD0WCV Exp                            | KD0WCV       |
+| 44.46.2.80 /28   | KC0EZE                                | KC0EZE       |
+| 44.46.2.96 /28   | Platte County Amateur Radio Group   	 | NR0AD        |
+| 44.46.2.112 /28  | Mesh and Packet testing	              | K0DEZ        |
+| 44.46.2.128 /28  | WZ9W Node              	              | WZ9W         |
+| 44.46.15.0 /24   | NR0Q	                                 | NR0Q         |
+| 44.46.16.0 /24   | Kansas City Metro BYRG AMPR Network   | W0NQX        |
+| 44.46.17.0 /24   | N0RJC - Various Services	             | N0RJC        |
+| 44.46.18.0 /24   | KY0LE Experimental                    | KY0LE        |
+| 44.46.19.0 /24   | Mesh Network Testing                  | W0RDM        |
+| 44.46.20.0 /24   | AA0RC Networking                      | AA0RC        |
+| 44.46.21.0 /24   | KC0UDT Home Net                       | KC0UDT       |
+| 44.46.23.0 /24   | n0uuu                                 | N0UUU        |
+| 44.46.32.0 /24   | DIGITAL NETWORK                       | NM5PB        |
+| 44.46.96.0 /24   | KD0EAG amateur-experimental           | KD0EAG       |
+| 44.46.128.0 /24  | Blue Springs, Missouri                | N0VEP        |
 
 This table was last manually updated on, `September 3rd, 2022`.  You can view the most up to date information via the [Missouri AMPRNet Portal](https://portal.ampr.org/networks.php?a=region&id=879).
